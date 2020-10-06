@@ -1,0 +1,2 @@
+require 'fb'
+puts "hi"
